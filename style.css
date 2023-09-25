@@ -1,0 +1,33 @@
+.navbar {
+    background-color: #62D2A2;
+}
+
+.block  {
+    font:inherit;
+    border: none;
+    background-color: #62D2A2;
+    color: white;
+    font-size: 1.5rem; 
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: 400px 1fr;
+    grid-column-gap: 10px;
+  }
+
+.half   {
+    display: inline;
+}
+
+.main   {
+    background-color: #D7FBE8;
+}
+
+.big    {
+    background-color: #D7FBE8;
+}
+
+h1, h4 {
+    color: #25715e;
+}
